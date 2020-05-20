@@ -1,0 +1,7 @@
+﻿  tessMain.cpp
+C:\RIT2020\CSCI510\Final\Final\tessMain.cpp(289,56): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\RIT2020\CSCI510\Final\Final\tessMain.cpp(319,60): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\RIT2020\CSCI510\Final\Final\tessMain.cpp(320,59): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\RIT2020\CSCI510\Final\Final\tessMain.cpp(348,59): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\RIT2020\CSCI510\Final\Final\tessMain.cpp(432,9): warning C4101: 'i': unreferenced local variable
+  Final.vcxproj -> C:\RIT2020\CSCI510\Final\Debug\Final.exe
